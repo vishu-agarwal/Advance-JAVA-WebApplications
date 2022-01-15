@@ -1,0 +1,32 @@
+1. Create a GUI application to perform CRUD operation on student table with student id, name, date of birth, address etc fields.
+
+2. a. Develop Servlet & HTML Page with FORM and display form data using servlet, if user confirms entered data it will store it in database upon confirmation. Read initialization parameters from deployment descriptor.
+b. Develop servlet and demonstrate sharing resources among them using servletContext.
+c. Develop servlet listener class to implement context and session listeners.
+d. Develop Servlet to demonstrate FILE upload, use getParts() method of Servlet 3.0.
+
+3. Develop #2A using JSP.
+
+4. Develop JSP application to manage session management through login, member area and logout pages. Use session object to manage session. After login display all users in a tabular format. Add edit, delete and paging functions in table.
+
+5. Develop JSP, JavaBeans application to manage contacts.
+
+6. Develop #5 with JSTL/EL.
+
+7. Create SOAP based WebService for TempatureConversion to
+convert DegF to DegC and vice versa.
+
+8. Create #6 using RESTful Web Service.
+
+9. Create EntityBean & PU to manage Employee data, and using Entity Manager demonstrate persistence and CRUD operations.
+
+10. Create application to demonstrate JPQL.
+
+11. Develop a shopping cart application for electronic
+products having at least 5 products and 10 categories. Display catalogue and
+allow user to add products and order.
+
+12. Admin site with login should be able to view orders of
+#11.
+
+13. Develop a basic application to demonstrate EJB with JSP.
